@@ -33,14 +33,14 @@ In the end, the weights multiply to its corresponding channel in original tensor
 <br />
 This block can be implemented in almost any kinds of famous neural network, like ResNet, Inception...<br />
 The author also mention that how to add the SEBlock into these famouse architectures. <br />
-![image](https://github.com/RayXie29/Squeeze-and-Excitation-Keras/blob/master/imgs/other_archs.png)
+![ScreenShot](imgs/other_archs.png)
 <br />
 ## Try it on small CNN
 I had simply implemented this block into small CNN to deal with Cifar10 classification problem. <br />
 It worked very well, and only increase the computation effort a little. <br />
 Here is the result compare of regular CNN and regular CNN + SENet <br />
-![alt text](https://github.com/RayXie29/Squeeze-and-Excitation-Keras/blob/master/imgs/regular_cnn_on_cifar10.png)<br />
-![alt text](https://github.com/RayXie29/Squeeze-and-Excitation-Keras/blob/master/imgs/SE_cnn_on_cifar10.png)
+![ScreenShot](imgs/regular_cnn_on_cifar10.png)
+![ScreenShot](imgs/SE_cnn_on_cifar10.png)
 
 <br />
 <br />
