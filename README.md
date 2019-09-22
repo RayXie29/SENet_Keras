@@ -10,7 +10,7 @@ This repo is the implementation of Squeeze and Excitation Networks, which can be
 In fact, it is more like a block. Here is the architecture of SEblock:<br />
 <br />
 <br />
-![alt text](https://raw.githubusercontent.com/RayXie29/SENet_Keras/master/imgs/SE_arch.png) 
+![image](https://github.com/RayXie29/SENet_Keras/blob/master/imgs/SE_arch.png) 
 <br />
 <br />
 There are two part of this block, squeeze and excitiation. <br />
