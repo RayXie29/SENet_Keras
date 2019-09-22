@@ -37,7 +37,8 @@ The author also mention that how to add the SEBlock into these famouse architect
 I had simply implemented this block into small CNN to deal with Cifar10 classification problem. <br />
 It worked very well, and only increase the computation effort a little. <br />
 Here is the result compare of regular CNN and regular CNN + SENet <br />
-
+<br />
+<br />
 Regular CNN <br />
 
 ![ScreenShot](imgs/regular_cnn_on_cifar10.png)
