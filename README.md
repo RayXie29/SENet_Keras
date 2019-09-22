@@ -8,7 +8,11 @@ python version : 3.6.4
 <br />
 This repo is the implementation of Squeeze and Excitation Networks, which can be used in Keras framework. <br />
 In fact, it is more like a block. Here is the architecture of SEblock:<br />
-![alt text](https://raw.githubusercontent.com/RayXie29/SENet_Keras/master/imgs/SE_arch.png) <br />
+<br />
+<br />
+![alt text](https://raw.githubusercontent.com/RayXie29/SENet_Keras/master/imgs/SE_arch.png) 
+<br />
+<br />
 There are two part of this block, squeeze and excitiation. <br />
 <br />
 **Squeeze** <br />
