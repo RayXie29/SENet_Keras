@@ -8,13 +8,9 @@ python version : 3.6.4
 <br />
 This repo is the implementation of Squeeze and Excitation Networks, which can be used in Keras framework. <br />
 In fact, it is more like a block. Here is the architecture of SEblock:<br />
-<br />
-<br />
 
 ![ScreenShot](imgs/SE_arch.png)
 
-<br />
-<br />
 There are two part of this block, squeeze and excitiation. <br />
 <br />
 **Squeeze** <br />
@@ -42,7 +38,11 @@ I had simply implemented this block into small CNN to deal with Cifar10 classifi
 It worked very well, and only increase the computation effort a little. <br />
 Here is the result compare of regular CNN and regular CNN + SENet <br />
 
+Regular CNN <br />
+
 ![ScreenShot](imgs/regular_cnn_on_cifar10.png)
+
+SE CNN <br />
 
 ![ScreenShot](imgs/SE_cnn_on_cifar10.png)
 
